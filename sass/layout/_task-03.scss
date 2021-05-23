@@ -1,0 +1,18 @@
+.js-gallery__list {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+  width: 1000px;
+}
+
+.js-gallery__item {
+  width: 300px;
+  height: 200px;
+  border-radius: 10px;
+  overflow: hidden;
+
+  & img {
+    object-fit: cover;
+  }
+}

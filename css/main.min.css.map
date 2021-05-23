@@ -1,0 +1,15 @@
+{
+    "version": 3,
+    "mappings": "AIKA,AAAA,GAAG,AAAC,CACF,OAAO,CAAE,KAAK,CACd,SAAS,CAAE,IAAI,CACf,MAAM,CAAE,IAAI,CACb,ACTD,AAAA,KAAK,AAAC,CACJ,UAAU,CAAE,IAAI,CAChB,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CACX,AEJD,AAAA,iBAAiB,AAAC,CAChB,OAAO,CAAE,IAAI,CACb,eAAe,CAAE,YAAY,CAC7B,WAAW,CAAE,MAAM,CAEnB,KAAK,CAAE,MAAM,CACd,AAED,AAAA,iBAAiB,AAAC,CAChB,KAAK,CAAE,KAAK,CACZ,MAAM,CAAE,KAAK,CACb,aAAa,CAAE,IAAI,CACnB,QAAQ,CAAE,MAAM,CAKjB,AATD,AAME,iBANe,CAMb,GAAG,AAAC,CACJ,UAAU,CAAE,KAAK,CAClB,AChBH,AAAA,iBAAiB,AAAC,CAChB,MAAM,CAAE,iBAAiB,CAC1B,AAED,AAAA,iBAAiB,AAAA,MAAM,AAAC,CACtB,YAAY,CAAE,OAAO,CACtB,AAED,AAAA,iBAAiB,AAAA,QAAQ,AAAC,CACxB,YAAY,CAAE,OAAO,CACtB",
+    "sources": [
+        "../sass/main.scss",        
+        "../sass/base/_main.scss",
+        "../sass/base/_base.scss",
+        "../sass/base/_reset.scss",
+        "../sass/layout/_main.scss",
+        "../sass/layout/_task-03.scss",
+        "../sass/layout/_task-06.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}
